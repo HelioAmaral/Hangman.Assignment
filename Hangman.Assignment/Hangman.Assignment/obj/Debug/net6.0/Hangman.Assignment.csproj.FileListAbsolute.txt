@@ -1,0 +1,15 @@
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/bin/Debug/net6.0/Hangman.Assignment
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/bin/Debug/net6.0/Hangman.Assignment.deps.json
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/bin/Debug/net6.0/Hangman.Assignment.runtimeconfig.json
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/bin/Debug/net6.0/Hangman.Assignment.dll
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/bin/Debug/net6.0/Hangman.Assignment.pdb
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.csproj.AssemblyReference.cache
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.AssemblyInfoInputs.cache
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.AssemblyInfo.cs
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.csproj.CoreCompileInputs.cache
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.dll
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/refint/Hangman.Assignment.dll
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.pdb
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/Hangman.Assignment.genruntimeconfig.cache
+/Volumes/My Passport/C#/Hangman.Assignment/Hangman.Assignment/obj/Debug/net6.0/ref/Hangman.Assignment.dll
